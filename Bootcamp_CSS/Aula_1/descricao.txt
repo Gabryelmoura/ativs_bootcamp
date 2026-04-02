@@ -1,0 +1,84 @@
+Conceitos dos Comandos Apresentados até o Momento
+
++ Estilização de Texto: 
+    - font-family: Escolhe o estilo da letra (ex: sans-serif são letras sem aqueles "pezinhos" nas pontas).
+
+    - font-size: Define o tamanho da letra.
+
+    - font-weight: bold: Deixa a letra em negrito.
+
+    - color: Muda a cor do texto.
+
+    - text-align: justify: Faz com que as linhas do texto terminem todas alinhadas na mesma margem (como em jornais ou livros).
+
+
+
++ Estilização de Plano de Fundo:
+    - background-color: Define a cor de fundo da caixa.
+
+    - background-image: Coloca uma foto no fundo (no seu caso, uma praia).
+
+    - background-repeat: no-repeat: Diz para o computador não "ladrilhar" a imagem caso ela seja pequena (evita que a foto se repita várias vezes).
+
+    - background-size: cover: Estica a foto para que ela cubra todo o espaço disponível, sem deixar buracos brancos.
+
+    - background-position: bottom: Alinha a imagem de fundo pela parte de baixo.
+
+
+
++ Estilização de Tamanho de Caixas (Divs):
+    - height e width: Definem a altura e a largura dessa caixa. Podem ser em pixels (px) ou em porcentagem (%), onde 100% ocupa a tela toda.
+
+
+
++ Estilização Posicionamento:
+    - display: flex: Ativa o modo "organizador". Ele coloca os itens um ao lado do outro.
+
+    - justify-content: Alinha os itens na horizontal.
+
+    - space-around: Deixa um espaço igual entre os itens e nas bordas.
+
+    - flex-start: Empurra tudo para o começo (esquerda).
+
+    - align-items: Alinha os itens na vertical.
+
+    - center: Coloca tudo exatamente no meio da altura.
+
+    - end: Empurra tudo para o "chão" da caixa.
+
+
+
++ Estilização Espaçamento: 
+    - margin: É o espaço fora da caixa. Serve para empurrar os vizinhos para longe.
+
+    - margin-bottom e margin-left: Espaço extra apenas na parte de baixo ou na esquerda.
+
+    - padding: É o espaço dentro da caixa, entre a borda e o conteúdo (como o texto). É o "enchimento".
+
+
+
+Resumo dos Seletores:
+    body{}: Regras que valem para a página inteira.
+
+    .nome{} (com ponto): São as "classes". Você dá esse nome para um grupo de coisas que quer formatar igual (ex: .header{}, .logo{}).
+
+    img{}, h3{}, p{}, button{}: São os nomes das etiquetas (tags) do HTML. Tudo o que for imagem ou botão seguirá essa regra.
+
+
+
+
+
+Atividade 1.
+    a) Estilize a sua pagina tentando chegar o mais próximo possivel da imagem: "Layout_#1". Utilize apenas os comandos contidos nesse documento.
+
+    b) Suba a atividade no seu repositório do Git Hub. 
+
+
+Desafio.
+    a) Após a estruturação da sua pagina ficando semelhante ao "Layout_#1", troque as cores do titulo da pagina. 
+
+    b) Altere a imagem do banner da pagina para uma a sua preferencia, mas utilize um dos sites de banco de imagens citados no arquivo "Ferramentas.txt". 
+
+    c) Mude as cores do plano de fundo do site para uma cor a sua preferencia. Entretanto, faça em um arquivo separado, uma lista com os nomes das cores que você estará utilizando em sua pagina.
+
+    d) Suba o desafio no seu repositório do Git Hub.

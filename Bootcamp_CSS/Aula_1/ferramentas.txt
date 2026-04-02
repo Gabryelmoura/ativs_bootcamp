@@ -1,0 +1,13 @@
+Ferramentas Utilizadas para o Design da Pagina:
+
+- Pexels, Freepik: Banco de Imagens Gratuitos para a utilização nas suas páginas.
+LINK (Pexels): https://www.pexels.com/pt-br/
+LINK (Freepik): https://br.freepik.com/
+
+
+- Adobe Color: Ferramenta para a seleção de cores.
+LINK: https://color.adobe.com/pt/create/color-wheel
+
+
+- Figma: Ferramenta de prototipagem das paginas do site.
+LINK: https://www.figma.com/pt-br/

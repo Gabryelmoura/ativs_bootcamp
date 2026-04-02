@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Estilo do Cabecalho */
+.header{
+    height: 85px;
+    width: 100%;
+
+    background-color: red;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    height: 80px;
+    width: 200px;
+
+    background-color: cadetblue;
+
+    display: flex;
+    justify-content: space-around;
+
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+}
+
+.links{
+    height: 80px;
+    width: 350px;
+
+    background-color: yellow;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Estilo do Banner e o seus Conteudos */
+.banner{
+    height: 530px;
+    width: 100%;
+
+    background-color: green;
+    background-image: url('images/paisagem_praia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+}
+
+.message{
+    height: 200px;
+    width: 500px;
+
+    background-color: purple;
+    
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding: 20px;
+}
+
+h3{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+}
